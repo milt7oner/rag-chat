@@ -1,0 +1,2 @@
+FastAPI es un framework moderno y rápido para construir APIs con Python 3.7+ basado en estándares como OpenAPI.
+Permite crear endpoints asíncronos, validación automática con Pydantic y documentación interactiva con Swagger.
